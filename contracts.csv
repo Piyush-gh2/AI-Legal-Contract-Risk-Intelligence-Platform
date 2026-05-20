@@ -1,0 +1,9 @@
+contract_id,clause,risk_level
+C101,Missing GDPR compliance clause,High
+C102,High termination penalty,Medium
+C103,Ambiguous payment terms,High
+C104,Standard compliance agreement,Low
+C105,Data retention policy missing,High
+C106,Vendor liability limitation,Medium
+C107,Incomplete confidentiality clause,High
+C108,Standard operational contract,Low
